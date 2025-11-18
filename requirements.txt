@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+transformers
+torch
+sentencepiece
+protobuf==3.20.3
+accelerate
+rouge-score
+pdfplumber
+python-docx
+python-multipart
+aiofiles
